@@ -40,6 +40,8 @@ After learning, run the following code to get the final results.
 
 We implement InceptionNet based on the code from [TSAI](https://github.com/timeseriesAI/tsai). To maintain simplicity, we only release the code for ResNet and CRNN.
 
+If users want the implemented baselines in the paper, please contact me.
+
 For research cooperation, please contact shuang.zhou@connect.polyu.hk
 
 ## 3. Citation
