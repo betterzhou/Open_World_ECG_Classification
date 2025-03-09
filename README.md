@@ -14,7 +14,7 @@ See requirements.txt for details.
 ### Datasets:
 The meta information on each ECG sample is in the label.csv file under the data folder.
 
-For different variants of the dataset, e.g., CPSC18-L and CPSC18-S, we use the same data folder but different label.csv file.
+For different variants of the dataset, e.g., CPSC18-L and CPSC18-S, we use the same data folder but a different label.csv file.
 
 The code assumes that the data has been augmented and saved into the data folder.
 
@@ -41,6 +41,8 @@ After learning, run the following code to get the final results.
 We implement InceptionNet based on the code from [TSAI](https://github.com/timeseriesAI/tsai). To maintain simplicity, we only release the code for ResNet and CRNN.
 
 If users need the implemented baselines in our paper, please contact me.
+
+⭐️ If you find this project beneficial to your study, please give it a star!
 
 For research cooperation, please contact shuang.zhou@connect.polyu.hk
 
