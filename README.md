@@ -42,9 +42,9 @@ We implement InceptionNet based on the code from [TSAI](https://github.com/times
 
 If users need the implemented baselines in our paper, please contact me.
 
-⭐️ If you find this project beneficial to your study, please give it a star!
+⭐️⭐️⭐️ If you find this project beneficial to your study, please give it a star!
 
-For research cooperation, please contact shuang.zhou@connect.polyu.hk
+For research cooperation, please contact shuang.zhou  AT  connect.polyu.hk
 
 ## 3. Citation
 Please kindly cite the paper if you use the code or any resources in this repo:
